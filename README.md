@@ -20,17 +20,14 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![Sharp](https://img.shields.io/badge/HTML-5E35B1?style=for-the-badge&logo=sharp&logoColor=white)](https://html.com)
-[![Sharp](https://img.shields.io/badge/Java-13233a?style=for-the-badge&logo=sharp&logoColor=white)](https://java.com/)
-[![Sharp](https://img.shields.io/badge/Sass-c30b0d?style=for-the-badge&logo=sharp&logoColor=white)](https://sass.com/)
 
 ---
 <h1 align="center">Born to trust only in Code !</h1>
 
 <p align="center">
- <img src='https://img.shields.io/badge/WebDeveloper-5E35B1?style=for-the-badge&logo=sharp&logoColor=black)](https://fredonbytes.cloud' /> 
-  <img src='https://img.shields.io/badge/SecurityExpert-42beff?style=for-the-badge&logo=sharp&logoColor=black)](https://fredonbytes.cloud' /> 
-  <img src='https://img.shields.io/badge/FullStackLifestyle-e42b41?style=for-the-badge&logo=sharp&logoColor=black)](https://fredonbytes.cloud' /> 
+ <img src='https://img.shields.io/badge/WebDeveloper-5E35B1?style=for-the-badge&logo=sharp&logoColor=black' /> 
+  <img src='https://img.shields.io/badge/SecurityExpert-42beff?style=for-the-badge&logo=sharp&logoColor=black' /> 
+  <img src='https://img.shields.io/badge/FullStackLifestyle-e42b41?style=for-the-badge&logo=sharp&logoColor=black' /> 
 </p>
 
 
@@ -46,7 +43,9 @@ Crawler - because sometimes you just want to hang around.
 ### [Grimoire Assist import](https://github.com/DiXiDeR/GrimoireAssist.git)
 Automates bookmark creation process for multiple domains from a CSV file.
 ---
-## 📈 GitHub Stats
+
+
+<h2 align="center">📈 GitHub Stats</h2>
 <p align="center">
  <img src='https://github-readme-stats.vercel.app/api?username=dixider&show_icons=true&theme=radical' /> 
 </p>
