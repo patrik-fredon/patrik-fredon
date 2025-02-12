@@ -25,7 +25,8 @@
 [![Sharp](https://img.shields.io/badge/Sass-c30b0d?style=for-the-badge&logo=sharp&logoColor=white)](https://sass.com/)
 
 ---
-# Born to trust only in Code !
+<h1 align="center">Born to trust only in Code !</h1>
+
 <p align="center">
  <img src='https://img.shields.io/badge/WebDeveloper-5E35B1?style=for-the-badge&logo=sharp&logoColor=black)](https://fredonbytes.cloud' /> 
   <img src='https://img.shields.io/badge/SecurityExpert-42beff?style=for-the-badge&logo=sharp&logoColor=black)](https://fredonbytes.cloud' /> 
