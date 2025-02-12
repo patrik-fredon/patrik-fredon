@@ -25,11 +25,14 @@
 [![Sharp](https://img.shields.io/badge/Sass-c30b0d?style=for-the-badge&logo=sharp&logoColor=white)](https://sass.com/)
 
 ---
-<div display:flex; justify:center; text:center;>
 # Born to trust only in Code !
-[![Sharp](https://img.shields.io/badge/WebDeveloper-5E35B1?style=for-the-badge&logo=sharp&logoColor=white)](https://fredonbytes.cloud/)
-[![Sharp](https://img.shields.io/badge/SecurityExpert-5E35B1?style=for-the-badge&logo=sharp&logoColor=white)](https://fredonbytes.cloud/)
-[![Sharp](https://img.shields.io/badge/FullstackLifestyle-c30b0d?style=for-the-badge&logo=sharp&logoColor=white)](https://fredonbytes.cloud/)
+<p align="center">
+ <img src='https://img.shields.io/badge/WebDeveloper-5E35B1?style=for-the-badge&logo=sharp&logoColor=black)](https://fredonbytes.cloud' /> 
+  <img src='https://img.shields.io/badge/SecurityExpert-42beff?style=for-the-badge&logo=sharp&logoColor=black)](https://fredonbytes.cloud' /> 
+  <img src='https://img.shields.io/badge/FullStackLifestyle-e42b41?style=for-the-badge&logo=sharp&logoColor=black)](https://fredonbytes.cloud' /> 
+</p>
+
+
 ---
 ## 🌟 Projects & Contributions
 
@@ -43,8 +46,10 @@ Crawler - because sometimes you just want to hang around.
 Automates bookmark creation process for multiple domains from a CSV file.
 ---
 ## 📈 GitHub Stats
+<p align="center">
+ <img src='https://github-readme-stats.vercel.app/api?username=dixider&show_icons=true&theme=radical' /> 
+</p>
 
-![Fredon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dixider&show_icons=true&theme=radical) 
 
 ---
 ## 💬 Connect with Me
@@ -54,14 +59,19 @@ Automates bookmark creation process for multiple domains from a CSV file.
 - [![Personal Blog](https://img.shields.io/badge/Blog-Follow-lightgrey?style=flat&logo=blogger)](https://fredon.dev/blog)
 
 ---
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dixider&layout=compact&theme=radical) 
+<p align="center">
+ <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=dixider&layout=compact&theme=radical' /> 
+</p>
+
 ---
 - "Programming isn't just about code; it's about building a better future."
 
 - "There aren't many people on earth who truly understand code. But those who do are truly happy, because in those words, numbers, and perfectly stacked brackets, there is a place where the demons in your head quiet down." 
 
+<p align="center">
+ <img src="https://api.daily.dev/devcards/v2/e6P0XIguJcE4F5bB1OVF5.png?type=wide&r=usx" width="800" alt="Patrik Svoboda's Dev Card"/>
+</p>
 
-<a href="https://app.daily.dev/fredonbytes"><img src="https://api.daily.dev/devcards/v2/e6P0XIguJcE4F5bB1OVF5.png?type=wide&r=usx" width="800" alt="Patrik Svoboda's Dev Card"/></a> 
 
 
 I was Fredon @ 2025
