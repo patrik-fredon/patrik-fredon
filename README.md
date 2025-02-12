@@ -1,86 +1,110 @@
+<h1 align="center">
+  👾 Fredon <br>
+  <sub><em>Security · Code · Innovation</em></sub>
+</h1>
 
 ---
 
- - 👋 Hi, I’m @Fredon
- - 👀 I’m interested in Smart Security and High-Security Software Development.
- - 🌱 I’m currently learning advanced security techniques and training in machine learning.
- - 💞️ I’m looking to collaborate on projects that push the boundaries of security and innovation.
- - 📫 How to reach me: Email me at [fredon.bytes@proton.me]
- - 😄 Pronouns: He/Him
- - ⚡ Fun fact: I started programming at the age of 12 and have a wide-ranging skill set from front-end graphics to back-end frameworks. I'm passionate about IT and see it as more than just a job—it's my hobby!
- 
+<div align="center">
+  <strong>Smart Security • Advanced Software Development • Futuristic Innovation</strong>
+</div>
+
+---
+## 👋 About Me
+
+I'm **Fredon (@Fredon)**  – a passionate developer and security expert with an unyielding commitment to building high-security and smart software solutions. I believe that *code is the art of the future*. With a journey that began at age 12, my expertise spans front-end design, back-end engineering, and everything in between. I thrive on challenges, continuously learning advanced security techniques and machine learning to push the boundaries of innovation.
+
+- **Interests:** Advanced security techniques, machine learning, and cutting-edge tech innovations.
+- **Collaboration:** Looking to work on projects that redefine security and push creative boundaries.
+- **Fun Fact:** I started programming at the age of 12 and have evolved into a full-stack innovator, blending front-end artistry with robust back-end systems.
+
+
+
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-[![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
-[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-
----
-<h1 align="center">Born to trust only in Code !</h1>
-
 <p align="center">
- <img src='https://img.shields.io/badge/WebDeveloper-5E35B1?style=for-the-badge&logo=sharp&logoColor=blue' /> 
-  <img src='https://img.shields.io/badge/SecurityExpert-42beff?style=for-the-badge&logo=go&logoColor=black' /> 
-  <img src='https://img.shields.io/badge/FullStackLifestyle-e42b41?style=for-the-badge&logo=bootstrap&logoColor=red' /> 
+
+[![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)  [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)  [![C Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/dotnet/csharp/)  [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)  [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)  [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)  [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)  [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/) [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/) [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)  [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+
 </p>
 
-
 ---
+
+## Projects
+
 <table>
   <tr>
-    <td>
-      <h3><a href="https://github.com/Fredon/smart-security-system">E-commerce site</a></h3>
-      <p>Template of NextJS e-commerce sites, with useful admin dashboard.</p>
-      <h3><a href="https://github.com/DiXiDeR/WebNinjaHarvester.git">Ninja Harvester</a></h3>
-      <p>Crawler - because sometimes you just want to hang around.</p>
-      <h3><a href="https://github.com/DiXiDeR/GrimoireAssist.git">Grimoire Assist import</a></h3>
-      <p>Automates bookmark creation process for multiple domains from a CSV file.</p>
+    <td valign="top">
+      <h3><a href="https://github.com/Fredon/smart-security-system" target="_blank" style="color:#ff79c6;">Smart Security System</a></h3>
+      <p>NextJS-based e-commerce template with a robust admin dashboard tailored for smart security solutions.</p>
     </td>
-    <td>
-      <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=patrik-fredon&theme=synthwave' alt="GitHub Top Languages"/>
+    <td valign="top">
+      <h3><a href="https://github.com/DiXiDeR/WebNinjaHarvester.git" target="_blank" style="color:#ff79c6;">Ninja Harvester</a></h3>
+      <p>A powerful crawler designed to explore and collect data, transforming raw information into actionable insights.</p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3><a href="https://github.com/DiXiDeR/GrimoireAssist.git" target="_blank" style="color:#ff79c6;">Grimoire Assist</a></h3>
+      <p>An automation tool that streamlines bookmark creation from CSV inputs, boosting productivity and organization.</p>
+    </td>
+    <td valign="top">
+      <h3><a href="https://github.com/Fredon/another-future-project" target="_blank" style="color:#ff79c6;">Upcoming Innovations</a></h3>
+      <p>Stay tuned for projects that challenge the norm and shape the future of high-security software.</p>
     </td>
   </tr>
 </table>
 
-
-
 ---
 
-<h2>📈 GitHub Stats</h2>
+## 📈 GitHub Stats
 
-<p align="center">
-    <img src='https://github-readme-stats.vercel.app/api?username=patrik-fredon&show_icons=true&theme=synthwave' />
-     
-</p>
+<div align="center">
+<a href="https://github.com/patrik-fredon/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=patrik-fredon&theme=midnight-purple" />
+</a>
+<a href="https://github.com/patrik-fredon/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=patrik-fredon&layout=compact&langs_count=8&card_width=320&theme=midnight-purple" />
+</a>
 
----
-## 💬 Connect with Me
-
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/Fredon)
-- [![Twitter](https://img.shields.io/twitter/follow/Fredon?style=social)](https://twitter.com/Fredon)
-- [![Personal Blog](https://img.shields.io/badge/Blog-Follow-lightgrey?style=flat&logo=blogger)](https://fredon.dev/blog)
-
----
-
-
----
-- "Programming isn't just about code; it's about building a better future."
-
-- "There aren't many people on earth who truly understand code. But those who do are truly happy, because in those words, numbers, and perfectly stacked brackets, there is a place where the demons in your head quiet down." 
-
-<p align="center">
- <img src="https://api.daily.dev/devcards/v2/e6P0XIguJcE4F5bB1OVF5.png?type=wide&r=usx" width="800" alt="Patrik Svoboda's Dev Card"/>
-</p>
-
-
-
-I was Fredon @ 2025
----
 </div>
+
+---
+
+## Inspiring Words
+
+> *"Programming transcends lines of code; it's a visionary pursuit that builds the future."*
+
+> *"True mastery in code quiets the chaos and unlocks innovation."*
+
+---
+
+## Connect with Me
+
+<div align="center">
+  - <a href="https://www.linkedin.com/in/Fredon" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn">
+    </a>
+  - <a href="https://twitter.com/Fredon" target="_blank">
+      <img src="https://img.shields.io/twitter/follow/Fredon?style=social" alt="Twitter">
+    </a>
+  - <a href="https://fredon.dev/blog" target="_blank">
+      <img src="https://img.shields.io/badge/Blog-Follow-lightgrey?style=flat&logo=blogger" alt="Blog">
+    </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://api.daily.dev/devcards/v2/e6P0XIguJcE4F5bB1OVF5.png?type=wide&r=usx" width="800" alt="Fredon's Dev Card"/>
+</div>
+
+---
+
+<div align="center" style="font-size:12px; color: #bd93f9;">
+  &copy; Fredon 2025. Code crafted for tomorrow's digital frontier.
+</div>
+
 
