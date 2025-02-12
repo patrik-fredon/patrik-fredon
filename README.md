@@ -98,9 +98,10 @@ I'm **Fredon (@Fredon)**  – a passionate developer and security expert with an
       <div>
       <a href="https://github.com/patrik-fredon/convoychat">
       <img src="https://api.daily.dev/devcards/v2/e6P0XIguJcE4F5bB1OVF5.png?type=wide&r=usx" width="500" alt="Fredon's Dev Card"/>
+      <img src="https://api.githubtrends.io/user/svg/patrik-fredon/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=classic" />
       </a>
 
-</div
+</div>
   </div>
 
 
