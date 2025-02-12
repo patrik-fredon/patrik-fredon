@@ -83,24 +83,28 @@ I'm **Fredon (@Fredon)**  – a passionate developer and security expert with an
 
 ## Connect with Me
 
-<div align="center">
-  - <a href="https://www.linkedin.com/in/Fredon" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn">
-    </a>
-  - <a href="https://twitter.com/Fredon" target="_blank">
-      <img src="https://img.shields.io/twitter/follow/Fredon?style=social" alt="Twitter">
-    </a>
-  - <a href="https://fredon.dev/blog" target="_blank">
-      <img src="https://img.shields.io/badge/Blog-Follow-lightgrey?style=flat&logo=blogger" alt="Blog">
-    </a>
-</div>
+
+
+
 
 ---
-
 <div align="center">
-  <img src="https://api.daily.dev/devcards/v2/e6P0XIguJcE4F5bB1OVF5.png?type=wide&r=usx" width="800" alt="Fredon's Dev Card"/>
+<div>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+ <img src="https://img.shields.io/twitter/follow/Fredon?style=?style=for-the-badge" alt="Twitter">
+     <img src="https://img.shields.io/badge/Blog-Follow-lightgrey?style=?style=for-the-badge&logo=blogger" alt="Blog">
+  
 </div>
+      <div>
+      <a href="https://github.com/patrik-fredon/convoychat">
+      <img src="https://api.daily.dev/devcards/v2/e6P0XIguJcE4F5bB1OVF5.png?type=wide&r=usx" width="500" alt="Fredon's Dev Card"/>
+      </a>
 
+</div
+  </div>
+
+
+  
 ---
 
 <div align="center" style="font-size:12px; color: #bd93f9;">
