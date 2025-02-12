@@ -25,6 +25,7 @@
 [![Sharp](https://img.shields.io/badge/Sass-c30b0d?style=for-the-badge&logo=sharp&logoColor=white)](https://sass.com/)
 
 ---
+<div display:flex; justify:center; text:center;>
 # Born to trust only in Code !
 [![Sharp](https://img.shields.io/badge/WebDeveloper-5E35B1?style=for-the-badge&logo=sharp&logoColor=white)](https://fredonbytes.cloud/)
 [![Sharp](https://img.shields.io/badge/SecurityExpert-5E35B1?style=for-the-badge&logo=sharp&logoColor=white)](https://fredonbytes.cloud/)
@@ -65,5 +66,5 @@ Automates bookmark creation process for multiple domains from a CSV file.
 
 I was Fredon @ 2025
 ---
-
+</div>
 
