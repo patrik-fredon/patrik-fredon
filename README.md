@@ -25,31 +25,39 @@
 <h1 align="center">Born to trust only in Code !</h1>
 
 <p align="center">
- <img src='https://img.shields.io/badge/WebDeveloper-5E35B1?style=for-the-badge&logo=sharp&logoColor=black' /> 
-  <img src='https://img.shields.io/badge/SecurityExpert-42beff?style=for-the-badge&logo=sharp&logoColor=black' /> 
-  <img src='https://img.shields.io/badge/FullStackLifestyle-e42b41?style=for-the-badge&logo=sharp&logoColor=black' /> 
+ <img src='https://img.shields.io/badge/WebDeveloper-5E35B1?style=for-the-badge&logo=sharp&logoColor=blue' /> 
+  <img src='https://img.shields.io/badge/SecurityExpert-42beff?style=for-the-badge&logo=go&logoColor=black' /> 
+  <img src='https://img.shields.io/badge/FullStackLifestyle-e42b41?style=for-the-badge&logo=bootstrap&logoColor=red' /> 
 </p>
 
 
 ---
-## 🌟 Projects & Contributions
+<table>
+  <tr>
+    <td>
+      <h3><a href="https://github.com/Fredon/smart-security-system">E-commerce site</a></h3>
+      <p>Template of NextJS e-commerce sites, with useful admin dashboard.</p>
+      <h3><a href="https://github.com/DiXiDeR/WebNinjaHarvester.git">Ninja Harvester</a></h3>
+      <p>Crawler - because sometimes you just want to hang around.</p>
+      <h3><a href="https://github.com/DiXiDeR/GrimoireAssist.git">Grimoire Assist import</a></h3>
+      <p>Automates bookmark creation process for multiple domains from a CSV file.</p>
+    </td>
+    <td>
+      <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=patrik-fredon&theme=synthwave' alt="GitHub Top Languages"/>
+    </td>
+  </tr>
+</table>
 
-### [E-commerce site](https://github.com/Fredon/smart-security-system)
-Template of NextJS e-commerce sites, with usefull admin dashboard.
 
-### [Ninja Harvester](https://github.com/DiXiDeR/WebNinjaHarvester.git)
-Crawler - because sometimes you just want to hang around.
 
-### [Grimoire Assist import](https://github.com/DiXiDeR/GrimoireAssist.git)
-Automates bookmark creation process for multiple domains from a CSV file.
 ---
 
+<h2>📈 GitHub Stats</h2>
 
-<h2 align="center">📈 GitHub Stats</h2>
 <p align="center">
- <img src='https://github-readme-stats.vercel.app/api?username=dixider&show_icons=true&theme=radical' /> 
+    <img src='https://github-readme-stats.vercel.app/api?username=patrik-fredon&show_icons=true&theme=synthwave' />
+     
 </p>
-
 
 ---
 ## 💬 Connect with Me
@@ -59,9 +67,7 @@ Automates bookmark creation process for multiple domains from a CSV file.
 - [![Personal Blog](https://img.shields.io/badge/Blog-Follow-lightgrey?style=flat&logo=blogger)](https://fredon.dev/blog)
 
 ---
-<p align="center">
- <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=dixider&layout=compact&theme=radical' /> 
-</p>
+
 
 ---
 - "Programming isn't just about code; it's about building a better future."
