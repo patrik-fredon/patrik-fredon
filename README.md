@@ -1,73 +1,110 @@
-<h1 align="center">
-  👾 Fredon <br>
-  <sub><em>Security · Code · Innovation</em></sub>
-</h1>
-
----
-
+<!-- Header with modern styling -->
 <div align="center">
-  <strong>Smart Security • Advanced Software Development • Futuristic Innovation</strong>
+  
+# 🚀 Fredon
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=282A36&center=true&vCenter=true&random=false&width=435&lines=Full-Stack+Developer;Security+Expert;Tech+Innovator)](https://git.io/typing-svg)
+
+*Where Code Meets Innovation*
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=patrik-fredon&color=blueviolet&style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/fredon)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/Fredon)
+
 </div>
 
 ---
 
-## 👋 About Me
+<div align="center">
+  <img src="https://github.com/patrik-fredon/patrik-fredon/blob/main/fredon6_banner.png" width=full alt="Fredon's Dev Card"/>
+</div>
 
-I'm **Fredon (@Fredon)** – a passionate developer and security expert with an unyielding commitment to building high-security and smart software solutions. I believe that _code is the art of the future_. With a journey that began at age 12, my expertise spans front-end design, back-end engineering, and everything in between. I thrive on challenges, continuously learning advanced security techniques and machine learning to push the boundaries of innovation.
+<!-- About Me Section -->
+### 👨‍💻 About Me
 
--   **Interests:** Advanced security techniques, machine learning, and cutting-edge tech innovations.
--   **Collaboration:** Looking to work on projects that redefine security and push creative boundaries.
--   **Fun Fact:** I started programming at the age of 12 and have evolved into a full-stack innovator, blending front-end artistry with robust back-end systems.
+> "Programming transcends lines of code; it's a visionary pursuit that builds the future." 
 
----
+I'm a passionate Full-Stack Developer and Security Expert who believes in crafting code that not only works but inspires. My journey began at age 12, and since then, I've been on an unwavering mission to push the boundaries of what's possible in software development.
 
-## 🛠️ Tech Stack & Tools
-
-<p align="center">
-
-[![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/) [![C Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/dotnet/csharp/) [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/) [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/) [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/) [![NextJS](https://img.shields.io/badge/Nextjs-DD0031?style=for-the-badge&logo=nextjs&logoColor=white)](https://nextjs.org/) [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/) [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/) [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-
-</p>
+- 🔭 Currently exploring advanced security techniques and AI integration
+- 🌱 Constantly learning and adapting to emerging technologies
+- 💡 Passionate about creating secure, scalable, and innovative solutions
+- 🤝 Open to collaborating on projects that challenge the status quo
 
 ---
 
-## 💰 Projects
+<!-- Tech Stack Section with Modern Badges -->
+### 🛠️ Tech Arsenal
+
+<div align="center">
+
+#### Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+#### Frontend & Backend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### Tools & Technologies
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+<!-- Featured Projects Section -->
+### 🚀 Featured Projects
 
 <table>
   <tr>
-    <td valign="top">
-      <h3><a href="https://github.com/patrik-fredon/smart-security-system" target="_blank" style="color:#ff79c6;">Smart Security System</a></h3>
-      <p>NextJS-based e-commerce template with a robust admin dashboard tailored for smart security solutions.</p>
+    <td width="50%">
+      <h3 align="center">Smart Security System</h3>
+      <div align="center">
+        <a href="https://github.com/patrik-fredon/smart-security-system" target="_blank"><img src="https://github.com/patrik-fredon/patrik-fredon/blob/main/favicon-96x96.png" width="100px" alt="Security System"></a>
+          <p>
+            <a href="https://github.com/patrik-fredon/smart-security-system" target="_blank">
+              <img src="https://img.shields.io/badge/Code-View_Project-blue?style=for-the-badge&logo=github">
+            </a>
+        </p>
+        <p><strong>NextJS, React, Node.js</strong> - A comprehensive e-commerce platform with advanced security features and real-time monitoring capabilities.</p>
+      </div>
     </td>
-    <td valign="top">
-      <h3><a href="https://github.com/patrik-fredon/WebNinjaHarvester.git" target="_blank" style="color:#ff79c6;">Ninja Harvester</a></h3>
-      <p>A powerful crawler designed to explore and collect data, transforming raw information into actionable insights.</p>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <h3><a href="https://github.com/patrik-fredon/GrimoireAssist.git" target="_blank" style="color:#ff79c6;">Grimoire Assist</a></h3>
-      <p>An automation tool that streamlines bookmark creation from CSV inputs, boosting productivity and organization.</p>
-    </td>
-    <td valign="top">
-      <h3><a href="https://github.com/patrik-fredon/another-future-project" target="_blank" style="color:#ff79c6;">Upcoming Innovations</a></h3>
-      <p>Stay tuned for projects that challenge the norm and shape the future of high-security software.</p>
+    <td width="50%">
+      <h3 align="center">Ninja Harvester</h3>
+      <div align="center">
+        <a href="https://github.com/patrik-fredon/WebNinjaHarvester" target="_blank">
+          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="100px" alt="Web Crawler">
+        </a>
+        <p>
+          <a href="https://github.com/patrik-fredon/WebNinjaHarvester" target="_blank">
+          <img src="https://img.shields.io/badge/Code-View_Project-blue?style=for-the-badge&logo=github">
+          </a>
+        </p>
+        <p><strong>Python, AI, Data Analysis</strong> - An intelligent web crawler that transforms raw data into actionable insights using advanced algorithms.</p>
+      </div>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📈 Dev Stats
-
----
+<!-- GitHub Stats Section -->
+### 📊 Developer Insights
 
 <div align="center">
   <div>
-    <a href="https://github.com/patrik-fredon/convoychat">
-      <img src="https://api.daily.dev/devcards/v2/e6P0XIguJcE4F5bB1OVF5.png?type=wide&r=usx" width="500" alt="Fredon's Dev Card"/>
-      <img src="https://api.githubtrends.io/user/svg/patrik-fredon/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=classic" />
+    <a href="https://app.daily.dev/fredonbytes">
+      <img src="https://api.daily.dev/devcards/v2/e6P0XIguJcE4F5bB1OVF5.png?type=wide&r=ymi" width="510" alt="Patrik Svoboda's Dev Card"/>
     </a>
+      <img src="https://api.githubtrends.io/user/svg/patrik-fredon/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=classic" />
   </div>
   <a href="https://github.com/patrik-fredon/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=patrik-fredon&theme=white" />
@@ -79,22 +116,19 @@ I'm **Fredon (@Fredon)** – a passionate developer and security expert with an 
 
 ---
 
-## Inspiring Words
+<!-- Footer Section -->
+<div align="center">
 
-> _"Programming transcends lines of code; it's a visionary pursuit that builds the future."_
+### 🤝 Let's Connect
 
-> _"True mastery in code quiets the chaos and unlocks innovation."_
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/fredon)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Fredon)
+[![Blog](https://img.shields.io/badge/Blog-Visit-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://fredon.dev)
 
----
+### 💭 Final Thoughts
 
-  <div align="center">
-    <img width=100 src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-    <img width=100 src="https://img.shields.io/twitter/follow/Fredon?style=?style=for-the-badge" alt="Twitter">
-    <img width=100 src="https://img.shields.io/badge/Blog-Follow-lightgrey?style=?style=for-the-badge&logo=blogger" alt="Blog">
-  </div>
+> "True mastery in code quiets the chaos and unlocks innovation."
 
----
+<sub>© 2025 Fredon • Code Crafted for Tomorrow's Digital Frontier</sub>
 
-<div align="center" style="font-size:14px; color: #bd93f9;">
-  &copy; Fredon 2025. Code crafted for tomorrow's digital frontier.
 </div>
