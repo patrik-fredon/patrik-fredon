@@ -59,7 +59,9 @@ I'm **Fredon (@Fredon)** – a passionate developer and security expert with an 
 ---
 
 ## 📈 Dev Stats
+
 ---
+
 <div align="center" style="border: 10px solid; padding: 10px; border-radius: 5px; shadow: 2px 2px 5px #44475a;">
   <div>
     <a href="https://github.com/patrik-fredon/convoychat">
@@ -84,10 +86,11 @@ I'm **Fredon (@Fredon)** – a passionate developer and security expert with an 
 > _"True mastery in code quiets the chaos and unlocks innovation."_
 
 ---
+
   <div align="center">
-    <img width=120 src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-    <img width=120 src="https://img.shields.io/twitter/follow/Fredon?style=?style=for-the-badge" alt="Twitter">
-    <img width=120 src="https://img.shields.io/badge/Blog-Follow-lightgrey?style=?style=for-the-badge&logo=blogger" alt="Blog">
+    <img width=100 src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+    <img width=100 src="https://img.shields.io/twitter/follow/Fredon?style=?style=for-the-badge" alt="Twitter">
+    <img width=100 src="https://img.shields.io/badge/Blog-Follow-lightgrey?style=?style=for-the-badge&logo=blogger" alt="Blog">
   </div>
 
 ---
