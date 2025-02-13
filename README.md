@@ -62,7 +62,7 @@ I'm **Fredon (@Fredon)** – a passionate developer and security expert with an 
 
 ---
 
-<div align="center" style="border: 10px solid; padding: 10px; border-radius: 5px; shadow: 2px 2px 5px #44475a;">
+<div align="center">
   <div>
     <a href="https://github.com/patrik-fredon/convoychat">
       <img src="https://api.daily.dev/devcards/v2/e6P0XIguJcE4F5bB1OVF5.png?type=wide&r=usx" width="500" alt="Fredon's Dev Card"/>
