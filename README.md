@@ -1,7 +1,7 @@
 <!-- Header with modern styling -->
 <div align="center">
   
-# 🚀 Fredon
+# 🚀 Patrik Fredon - Full-Stack Developer & Digital Innovator
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=282A36&center=true&vCenter=true&random=false&width=435&lines=Full-Stack+Developer;Security+Expert;Tech+Innovator;Code+Wizard;Design+Ninja;SEO+Sorcerer;Social+Media+Guru)](https://git.io/typing-svg)
 
@@ -129,7 +129,7 @@ Want to collaborate, chat tech, or just share a meme? Hit me up!
 - **Portfolio**: [About-me](https://me.fredonbytes.cloud)
 - **FredonBytes**: [FredonBytes Home](https://fredonbytes.cloud)
 
-![Follow Me](https://img.shields.io/github/followers/patrik-fredon?label=Follow%20Me&style=social)
+
 
 ---
 <!-- Footer Section -->
@@ -139,6 +139,7 @@ Want to collaborate, chat tech, or just share a meme? Hit me up!
 
 Thanks for stopping by! If you liked this README, give it a ⭐ and follow me for more tech adventures. Let’s build something *dechberoucí* together!
 
+![Follow Me](https://img.shields.io/github/followers/patrik-fredon?label=Follow%20Me&style=social)
 
 > "True mastery in code quiets the chaos and unlocks innovation."
 
