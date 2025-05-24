@@ -3,7 +3,7 @@
   
 # 🚀 Patrik Fredon - Full-Stack Developer & Digital Innovator
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=282A36&center=true&vCenter=true&random=false&width=435&lines=Full-Stack+Developer;Security+Expert;Tech+Innovator;Code+Wizard;Design+Ninja;SEO+Sorcerer;Social+Media+Guru)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=D64B8E&center=true&vCenter=true&random=false&width=435&lines=Full-Stack+Developer;Security+Expert;Tech+Innovator;Code+Wizard;Design+Ninja;SEO+Sorcerer;Social+Media+Guru)](https://git.io/typing-svg)
 
 *Where Code Meets Innovation*
 
