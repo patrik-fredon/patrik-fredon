@@ -74,7 +74,6 @@ Here’s the arsenal I wield to conquer the digital world:
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=patrik-fredon&theme=dracula&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patrik-fredon&layout=compact&theme=dracula&hide_border=true)
 
 </div>
 
