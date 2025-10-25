@@ -1,5 +1,8 @@
 <!-- Header with modern styling -->
 <div align="center">
+  <img src="https://github.com/patrik-fredon/patrik-fredon/blob/main/logo_bigger.png" width=full alt="FredonBytes logo"/>
+</div>
+<div align="center">
   
 # 🚀 Patrik Fredon - Full-Stack Developer & Digital Innovator
 
@@ -72,9 +75,7 @@ Here’s the arsenal I wield to conquer the digital world:
 |                                  |                                | Nginx/Apache                  |                       |
 |                                  |                                | Prometheus/Grafana            |                       |
 
-<div align="left">
-  <img src="https://github.com/patrik-fredon/patrik-fredon/blob/main/logo_bigger.png" width=full alt="Fredon's Dev Card"/>
-</div>
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=patrik-fredon&theme=dracula&hide_border=true)
 
 </div>
@@ -131,10 +132,13 @@ Want to collaborate, chat tech, or just share a meme? Hit me up!
 - **FredonBytes**: [FredonBytes Home](https://fredonbytes.cloud)
 
 
-<div align="center">
-  <img src="https://github.com/patrik-fredon/patrik-fredon/blob/main/fredon6_banner.png" width=full alt="Fredon's Dev Card"/>
-</div>
 ---
+
+<div align="center">
+  <img src="https://github.com/patrik-fredon/patrik-fredon/blob/main/BannerFredonBytes-first.jpeg" width=full alt="Fredon's Dev Card"/>
+</div>
+
+
 <!-- Footer Section -->
 <div align="center">
   
@@ -145,6 +149,10 @@ Thanks for stopping by! If you liked this README, give it a ⭐ and follow me fo
 ![Follow Me](https://img.shields.io/github/followers/patrik-fredon?label=Follow%20Me&style=social)
 
 > "True mastery in code quiets the chaos and unlocks innovation."
+
+ 
+> "Et in tenebris codicem inveni lucem."
+
 
 <sub>© 2025 Fredon • Code Crafted for Tomorrow's Digital Frontier</sub>
 
