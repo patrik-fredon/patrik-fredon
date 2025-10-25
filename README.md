@@ -93,7 +93,7 @@ Here’s the arsenal I wield to conquer the digital world:
 - **[FredonBytes Website]**: Built a fully responsive, SEO-optimized site that’s as fast as my coffee consumption. *Tech: React, Node.js, AWS.*
 - **[E-commerce Redesign]**: Revamped a client’s online store, boosting conversions by 150%. *Tech: Laravel, Tailwind CSS, Figma.*
 - **[SEO Campaign]**: Took a blog from obscurity to page 1 of Google in 3 months. *Keywords? Nailed it.*
-- **Open Source Contributor**: Proudly contributed to 5+ GitHub repos because sharing is caring.
+- **Open Source Contributor**: Proudly contributed to 15+ GitHub repos because sharing is caring.
 
 Check out my pinned repos below for more awesomeness! 👇
 
