@@ -72,7 +72,9 @@ Here’s the arsenal I wield to conquer the digital world:
 |                                  |                                | Nginx/Apache                  |                       |
 |                                  |                                | Prometheus/Grafana            |                       |
 
-
+<div align="left">
+  <img src="https://github.com/patrik-fredon/patrik-fredon/blob/main/logo_bigger.png" width=full alt="Fredon's Dev Card"/>
+</div>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=patrik-fredon&theme=dracula&hide_border=true)
 
 </div>
@@ -129,7 +131,9 @@ Want to collaborate, chat tech, or just share a meme? Hit me up!
 - **FredonBytes**: [FredonBytes Home](https://fredonbytes.cloud)
 
 
-
+<div align="center">
+  <img src="https://github.com/patrik-fredon/patrik-fredon/blob/main/fredon6_banner.png" width=full alt="Fredon's Dev Card"/>
+</div>
 ---
 <!-- Footer Section -->
 <div align="center">
