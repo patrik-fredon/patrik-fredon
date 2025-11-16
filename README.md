@@ -2,6 +2,9 @@
 <div align="center">
   <img src="https://github.com/patrik-fredon/patrik-fredon/blob/main/logo_bigger.png" width=full alt="FredonBytes logo"/>
 </div>
+
+
+
 <div align="center">
   
 # 🚀 Patrik Fredon - Full-Stack Developer & Digital Innovator
@@ -76,6 +79,9 @@ Here’s the arsenal I wield to conquer the digital world:
 |                                  |                                | Prometheus/Grafana            |                       |
 
 
+
+
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=patrik-fredon&theme=dracula&hide_border=true)
 
 </div>
@@ -99,6 +105,14 @@ Here’s the arsenal I wield to conquer the digital world:
 - **Open Source Contributor**: Proudly contributed to 15+ GitHub repos because sharing is caring.
 
 Check out my pinned repos below for more awesomeness! 👇
+
+---
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,arch,python,javascript,typescript,html,css,tailwindcss,nextjs,nodejs,react,windows,linux,notion,figma,vue,angular,php,rust,go,supabase,redis,postgres,mysql,mongodb,ubuntu,cpp,cloudflare,blender,azure,au,astro,cs,debian,deno,devto,discord,django,electron,fastapi,flutter,gcp,github,gitlab,grafana,godot,gulp,htmx,idea,ai,java,laravel,md,maven,mint,neovim,nestjs,netlify,nginx,obsidian,perl,pnpm,powershell,pytorch,qt,r,rails,redhat,remix,ruby,spring,sqlite,sublime,sentry,selenium,solidjs,svelte,svg,terraform,threejs,tensorflow,vite,vitest,vscode,yarn,bootstrap&perline=18" />
+  </a>
+</p>
 
 ---
 
@@ -137,6 +151,8 @@ Want to collaborate, chat tech, or just share a meme? Hit me up!
 <div align="center">
   <img src="https://github.com/patrik-fredon/patrik-fredon/blob/main/BannerFredonBytes-first.jpeg" width=full alt="Fredon's Dev Card"/>
 </div>
+
+
 
 
 <!-- Footer Section -->
